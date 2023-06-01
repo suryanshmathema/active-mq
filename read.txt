@@ -1,1 +1,1 @@
-This is the docker file for activemq.
+This is the docker repo for activemq.
